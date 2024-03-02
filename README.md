@@ -186,10 +186,10 @@
 ## :clipboard: Documents
 > [📜 API 명세서 예시]()
 > 
-> [📜 요구사항 정의서 예시]()
+> [📜 요구사항 정의서 예시](https://docs.google.com/spreadsheets/d/1BaDEpeytl_rQ_vckIXGJtCL4NcmPvemCSnXJnhckzLU/edit?usp=sharing)
 > 
-> [📜 ERD 예시]()
+> [📜 ERD 예시](https://drive.google.com/file/d/1jvaFIwfOkKLRriFZxzOwJTE-FJ7H3IFe/view?usp=sharing)
 > 
-> [📜 테이블 명세서 예시]()
+> [📜 테이블 명세서 예시](https://docs.google.com/spreadsheets/d/13y8xi67UQYCzX1xgSORtlA1_vXRFq6OQuVDG2o7fhO0/edit#gid=0)
 >
-> [📜 화면 정의서 예시]()
+> [📜 화면 정의서 예시 1](https://docs.google.com/spreadsheets/d/1vud5xV8rB9Y6akOIma49hSzdZsoj8DVG0-fYE4NdP_g/edit?usp=sharing)

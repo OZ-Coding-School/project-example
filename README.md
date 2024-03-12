@@ -184,7 +184,7 @@
 
 
 ## :clipboard: Documents
-> [📜 API 명세서 예시]()
+> [📜 API 명세서 예시](https://docs.google.com/spreadsheets/d/1XODUQC8tFNQjoZS7I4rcyaQpin6WzuuruZIVmdMwmeU/edit#gid=0)
 > 
 > [📜 요구사항 정의서 예시](https://docs.google.com/spreadsheets/d/1BaDEpeytl_rQ_vckIXGJtCL4NcmPvemCSnXJnhckzLU/edit?usp=sharing)
 > 
